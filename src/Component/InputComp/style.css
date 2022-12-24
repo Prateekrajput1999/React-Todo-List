@@ -1,0 +1,19 @@
+.input-text {
+    margin-bottom: 60px;
+}
+
+.input-text input{
+    padding: 10px;
+    margin: 0px -5px 0px 7px;
+    border-radius: 7px;
+}
+
+.input-text label {
+    font-size: 25px;
+}
+
+.submit-button {
+    background-color: aqua;
+    cursor: pointer;
+    font-size: 15px;
+}
