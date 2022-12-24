@@ -31,8 +31,8 @@ const App = () => {
     }))
     
     if(editKey===e.target.value) {
-      setEditKey('');
-      setText('');
+         setEditKey('');
+         setText('');
     }
 
   }
